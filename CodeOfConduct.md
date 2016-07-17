@@ -3,11 +3,24 @@ Anyone with an interest in DH (absolutely no experience needed!) is invited to j
 
 # DH Slack: Code of Conduct
 
+* Code of conduct intro
+* Reporting
+* Consequences
+* Harassment includes...
+* Moderation
+* Technical policies
+* Permanence & privacy
+* Help us improve this code of conduct
+* License, attribution, credit
+
 This code of conduct is an evolving document that changes following discussion on the DH Slack's #meta channel and involves the work and input of many DH Slack members.
 
 The Digital Humanities Slack is dedicated to providing a harassment-free online community experience for everyone regardless of digital humanities experience, employment, technical skills, gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, or religion. We do not tolerate harassment of DH Slack team members in any form. Sexual language and imagery is not appropriate for this Slack. Dismissive or belittling behavior (e.g. answering questions with links to Let Me Google That For You) is not allowed.
 
 Harassment and other code of conduct violations reduce the value of our community for everyone. Community members violating these rules may be banned from this Slack at the discretion of the team owner. 
+
+## Reporting
+If someone makes you *or anyone else* feel unsafe or unwelcome, please report it as soon as possible to Amanda Visconti (via direct message or aviscont@purdue.edu). Your information will be kept anonymous and never shared unless you explicitly consent to its sharing. You won't be asked to confront anyone and we won't tell anyone who you are.  
 
 ##Consequences
 
@@ -15,7 +28,7 @@ Participants asked to stop any harassing behavior are expected to comply immedia
 
 If a participant engages in harassing behavior, we may take any action they deem appropriate, up to and including expulsion from the DH Slack and identification of the participant as a harasser to other DH Slack members or the general public.
 
-## Harassment includes:
+## Harassment includes...
 
     Publication of non-harassing private communication.
     Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, age, race, or religion.
@@ -42,20 +55,12 @@ The DH Slack prioritizes marginalized people’s safety over privileged people�
     Communicating in a tone you don’t find congenial
     Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
 
-## Help us improve this code of conduct
-Because of how Slack is designed, the DH Slack currently has an owner (Amanda Visconti; aviscont@purdue.edu) as well as a variety of members who have been given the "admin" role so that they can moderate discussions if needed. Suggestions for improving this structure would be appreciated! In particular, ideas for letting the community grow while protecting against spam or troll activity (since anyone can sign themselves up), and ideas for fairly distributing the "admin" role among users would be appreciated. 
-
-Suggestions for improving this Slack or this Code of Conduct are invited and welcomed; please share these in the #meta channel if you are comfortable doing so, or share them directly with Amanda Visconti (via direct message or aviscont@purdue.edu) if you prefer.
-
-## Reporting
-If someone makes you *or anyone else* feel unsafe or unwelcome, please report it as soon as possible to Amanda Visconti (via direct message or aviscont@purdue.edu). Your information will be kept anonymous and never shared unless you explicitly consent to its sharing. You won't be asked to confront anyone and we won't tell anyone who you are.  
-
 ## Moderation
 Note that a number of members have been granted the "admin" role allowing them to also moderate the Slack (you may wish to check whether you already have moderation privileges, or request moderation privileges from Amanda). If you ever moderate or remove a message, please report doing so immediately to Amanda Visconti (via direct message or aviscont@purdue.edu).
 
 Moderation is still something we're figuring out; a number of users known to the DH Slack owner have been granted the 'admin" role, but further community discussion is needed to make sure others requesting moderation privileges can receive them without necessarily being known to the DH Slack owner. Since anyone with the link can join this Slack, we do want to be cautious about moderation privileges becoming a tool for harrassment in the wrong hands.
 
-## DH Slack Technical Policies
+## Technical Policies
 Currently, the DH Slack:
 
 * is ephemeral (but see the "Permanence & Privacy" section below to find out how private/permanent the DH Slack is in practice). In the early months of the DH Slack, we collectively decided to *not* keep any formal archive of old DH Slack messages; our current free Slack plan limits most users to viewin only the 10k most recent messages sent on the Slack, although DH Slack users with admin privileges are able to export a JSON file of all DH Slack messages via the Slack dashboard.
@@ -63,7 +68,7 @@ Currently, the DH Slack:
 
 All decisions can be revisited as needed. To read more about the decisions behind the two choices above, please [see this blog post summarizing our discussion and decision](http://literaturegeek.com/2016/07/06/digital-humanities-slack-community-design). 
 
-## Permanence & Privacy
+## Permanence & privacy
 Although no one can access messages older than the most recent 10k via the Slack directly, users with admin privileges *can export the entire Slack message archive (not just the most recent 10k messages)* as a JSON file (this export does not include private group history or files, direct message history or files, edit and deletion logs). The JSON isn’t super-friendly to read, but I’ll bet a good number of DHers are familiar with transforming it into something easily human-readable, so please be aware that this is possible. 
 
 Please also consider that messages on the DH Slack could be captured via screenshot or copy/paste by any DH Slack user. To allow conversational and research reuse of the DH Slack while respecting the privacy and IP of the DH Slack's users, you must follow the requirements below for quoting or reuse of the DH Slack:
@@ -71,7 +76,12 @@ Please also consider that messages on the DH Slack could be captured via screens
 * If you’re going to share a snapshot of a conversation on the Slack, you must ask anyone whose username is shown first and receive explicit permission from them (including honoring if they only give permission if you black out their username). 
 * For research/public discussion use of the Slack message export, you should ask in the #meta channel and wait to get an explicit okay from an admin who has had time to synthesize responses. A list of current admin users can be found pinned to the #moderation channel.
 
-## License and attribution
+## Help us improve this code of conduct
+Because of how Slack is designed, the DH Slack currently has an owner (Amanda Visconti; aviscont@purdue.edu) as well as a variety of members who have been given the "admin" role so that they can moderate discussions if needed. Suggestions for improving this structure would be appreciated! In particular, ideas for letting the community grow while protecting against spam or troll activity (since anyone can sign themselves up), and ideas for fairly distributing the "admin" role among users would be appreciated. 
+
+Suggestions for improving this Slack or this Code of Conduct are invited and welcomed; please share these in the #meta channel if you are comfortable doing so, or share them directly with Amanda Visconti (via direct message or aviscont@purdue.edu) if you prefer.
+
+## License, attribution, credit
 The DH Slack has altered the generously CC Zero Geek Feminism Wiki's code of conduct template to our needs (http://geekfeminism.wikia.com/wiki/Community_anti-harassment). That policy is based on the conference anti-harassment policy, and is the work of Annalee Flower Horne with assistance from Valerie Aurora, Alex Skud Bayley, Tim Chevalier, Mary Gardiner, and the Geek Feminism community. Both the DH Slack policy and the original Geek Feminism policy are licensed under the Creative Commons Zero license. They are public domain, no credit and no open licencing of your version is required. 
 
 Thank you to everyone who shared thoughts on improving the DH Slack on the Slack, via email, or on Twitter, including DH Slack members Sam Abrams, Kristen Mapes, Matthew Lincoln, Ed Summers, Alan G. Pike, Liz Lorang, Hyperverses, timfinnegan, Jeremy Throne, Brandon Locke, Lincoln Mullen, Brian Croxall, Jeff Godin, and Micah Vandegrift, and others via Twitter and email.
