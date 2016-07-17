@@ -55,6 +55,14 @@ Note that a number of members have been granted the "admin" role allowing them t
 
 Moderation is still something we're figuring out; a number of users known to the DH Slack owner have been granted the 'admin" role, but further community discussion is needed to make sure others requesting moderation privileges can receive them without necessarily being known to the DH Slack owner. Since anyone with the link can join this Slack, we do want to be cautious about moderation privileges becoming a tool for harrassment in the wrong hands.
 
-## License and attribution
+## DH Slack Technical Policies
+Currently, the DH Slack:
 
+* is ephemeral (we collectively decided to *not* keep any formal archive of old DH Slack messages; our current free Slack plan limits most users to viewin only the 10k most recent messages sent on the Slack, although DH Slack users with admin privileges are able to export a JSON file of all DH Slack messages via the Slack dashboard)
+* cannot be publicly read (i.e. you must sign up for the DH Slack to read the DH Slack's messages)
+
+To read more about the decisions behind the two choices above, please [see this blog post summarizing our discussion and decision](http://literaturegeek.com/2016/07/06/digital-humanities-slack-community-design). 
+
+
+## License and attribution
 The DH Slack has altered the generously CC Zero Geek Feminism Wiki's code of conduct template to our needs (http://geekfeminism.wikia.com/wiki/Community_anti-harassment). That policy is based on the conference anti-harassment policy, and is the work of Annalee Flower Horne with assistance from Valerie Aurora, Alex Skud Bayley, Tim Chevalier, Mary Gardiner, and the Geek Feminism community. Both the DH Slack policy and the original Geek Feminism policy are licensed under the Creative Commons Zero license. They are public domain, no credit and no open licencing of your version is required. 
