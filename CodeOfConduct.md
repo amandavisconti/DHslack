@@ -58,11 +58,20 @@ Moderation is still something we're figuring out; a number of users known to the
 ## DH Slack Technical Policies
 Currently, the DH Slack:
 
-* is ephemeral (we collectively decided to *not* keep any formal archive of old DH Slack messages; our current free Slack plan limits most users to viewin only the 10k most recent messages sent on the Slack, although DH Slack users with admin privileges are able to export a JSON file of all DH Slack messages via the Slack dashboard)
+* is ephemeral (but see the "Permanence & Privacy" section below to find out how private/permanent the DH Slack is in practice). In the early months of the DH Slack, we collectively decided to *not* keep any formal archive of old DH Slack messages; our current free Slack plan limits most users to viewin only the 10k most recent messages sent on the Slack, although DH Slack users with admin privileges are able to export a JSON file of all DH Slack messages via the Slack dashboard.
 * cannot be publicly read (i.e. you must sign up for the DH Slack to read the DH Slack's messages)
 
-To read more about the decisions behind the two choices above, please [see this blog post summarizing our discussion and decision](http://literaturegeek.com/2016/07/06/digital-humanities-slack-community-design). 
+All decisions can be revisited as needed. To read more about the decisions behind the two choices above, please [see this blog post summarizing our discussion and decision](http://literaturegeek.com/2016/07/06/digital-humanities-slack-community-design). 
 
+## Permanence & Privacy
+Although no one can access messages older than the most recent 10k via the Slack directly, users with admin privileges *can export the entire Slack message archive (not just the most recent 10k messages)* as a JSON file (this export does not include private group history or files, direct message history or files, edit and deletion logs). The JSON isn’t super-friendly to read, but I’ll bet a good number of DHers are familiar with transforming it into something easily human-readable, so please be aware that this is possible. 
+
+Please also consider that messages on the DH Slack could be captured via screenshot or copy/paste by any DH Slack user. To allow conversational and research reuse of the DH Slack while respecting the privacy and IP of the DH Slack's users, you must follow the requirements below for quoting or reuse of the DH Slack:
+
+* If you’re going to share a snapshot of a conversation on the Slack, you must ask anyone whose username is shown first and receive explicit permission from them (including honoring if they only give permission if you black out their username). 
+* For research/public discussion use of the Slack message export, you should ask in the #meta channel and wait to get an explicit okay from an admin who has had time to synthesize responses. A list of current admin users can be found pinned to the #moderation channel.
 
 ## License and attribution
 The DH Slack has altered the generously CC Zero Geek Feminism Wiki's code of conduct template to our needs (http://geekfeminism.wikia.com/wiki/Community_anti-harassment). That policy is based on the conference anti-harassment policy, and is the work of Annalee Flower Horne with assistance from Valerie Aurora, Alex Skud Bayley, Tim Chevalier, Mary Gardiner, and the Geek Feminism community. Both the DH Slack policy and the original Geek Feminism policy are licensed under the Creative Commons Zero license. They are public domain, no credit and no open licencing of your version is required. 
+
+Thank you to everyone who shared thoughts on improving the DH Slack on the Slack, via email, or on Twitter, including DH Slack members Sam Abrams, Kristen Mapes, Matthew Lincoln, Ed Summers, Alan G. Pike, Liz Lorang, Hyperverses, timfinnegan, Jeremy Throne, Brandon Locke, Lincoln Mullen, Brian Croxall, Jeff Godin, and Micah Vandegrift, and others via Twitter and email.
