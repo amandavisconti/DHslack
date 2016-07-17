@@ -1,5 +1,5 @@
 # Join the Digital Humanities Slack
-Anyone with an interest in DH (absolutely no experience needed!) is invited to join us. Join the DH Slack via tinyurl.com/DHslack (make sure to check your spam folder if you don't immediately receive an email with a link to start using the Slack).
+Anyone with an interest in DH (absolutely no experience needed!) is invited to join us. Join the DH Slack via [tinyurl.com/DHslack]. Mmake sure to check your spam folder if you don't receive an email with a link to start using the Slack within ten minutes after you submit the form, then email aviscont@purdue; a few people have encountered the automatic form not sending them an invitation email for some reason. You're automatically accepted (as long as you haven't previously broken the DH Slack's code of conduct), so if you fail to recieve an invitation after filling out the [tinyurl.com/DHslack] form, it's just a technical error.
 
 # DH Slack: Code of Conduct
 
@@ -19,6 +19,8 @@ This code of conduct is an evolving document that changes following discussion o
 The Digital Humanities Slack is dedicated to providing a harassment-free online community experience for everyone regardless of digital humanities experience, employment, technical skills, gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, or religion. We do not tolerate harassment of DH Slack team members in any form. Sexual language and imagery is not appropriate for this Slack. Dismissive or belittling behavior (e.g. answering questions with links to Let Me Google That For You) is not allowed.
 
 Harassment and other code of conduct violations reduce the value of our community for everyone. Community members violating these rules may be banned from this Slack at the discretion of the team owner. 
+
+Note that the DH Slack is an informal community. It is not sponsored by any institution and is run/moderated by volunteers. Users with the ability to moderate abuse/spam/etc. ("admins") do not regularly check all channels for problems. As DH Slack members we'll do our best to make the community safe and inviting, but please bring any issues to an admin's attention (you can always email aviscont@purdue.edu or check the list of current admins pinned to the #moderation channel).
 
 ## Reporting
 If someone makes you *or anyone else* feel unsafe or unwelcome, please report it as soon as possible to Amanda Visconti (via direct message or aviscont@purdue.edu). Your information will be kept anonymous and never shared unless you explicitly consent to its sharing. You won't be asked to confront anyone and we won't tell anyone who you are.  
