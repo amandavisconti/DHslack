@@ -5,6 +5,7 @@ Anyone with an interest in DH (absolutely no experience needed!) is invited to j
 
 * Code of conduct intro
 * Reporting
+* Welcome & invitations
 * Consequences
 * Harassment includes...
 * Moderation
@@ -21,6 +22,16 @@ Harassment and other code of conduct violations reduce the value of our communit
 
 ## Reporting
 If someone makes you *or anyone else* feel unsafe or unwelcome, please report it as soon as possible to Amanda Visconti (via direct message or aviscont@purdue.edu). Your information will be kept anonymous and never shared unless you explicitly consent to its sharing. You won't be asked to confront anyone and we won't tell anyone who you are.  
+
+## Welcome & invitations
+This section will list suggested behavior and positive, generative uses of the DH Slack:
+
+* There’s likely someone on DH Slack who is interested in what you’re thinking about! Consider starting some conversations.
+* There are no "stupid" questions. Questions always point out things people who know the answer should teach/document better, and help out others with the same question in the future (or with the same question now but who haven't felt comfortable asking).
+* Don't worry too much about where to ask a question—if you're in "the wrong channel", someone will probably politely point this out, and you can just go ask again in the other channel. 
+* People tune into Slack conversations at different times and for different reasons (e.g. someone may look like they're available, but be busy with work or not wanting to take part in multiple conversations at the same time). Don't worry if you don't get a response right away.
+
+We invite and encourage additions to this section (as well as additions/edits for the rest of this code of conduct) made in the #meta channel or by emailing Amanda (aviscont@purdue.edu).
 
 ##Consequences
 
