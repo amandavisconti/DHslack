@@ -1,5 +1,5 @@
 # Join the Digital Humanities Slack
-Anyone with an interest in DH (absolutely no experience needed!) is invited to join us. Join the DH Slack via [tinyurl.com/DHslack]. Mmake sure to check your spam folder if you don't receive an email with a link to start using the Slack within ten minutes after you submit the form, then email aviscont@purdue; a few people have encountered the automatic form not sending them an invitation email for some reason. You're automatically accepted (as long as you haven't previously broken the DH Slack's code of conduct), so if you fail to recieve an invitation after filling out the [tinyurl.com/DHslack] form, it's just a technical error.
+Anyone with an interest in DH (absolutely no experience needed!) is invited to join us. Join the DH Slack via http://tinyurl.com/DHslack. Mmake sure to check your spam folder if you don't receive an email with a link to start using the Slack within ten minutes after you submit the form, then email aviscont@purdue; a few people have encountered the automatic form not sending them an invitation email for some reason. You're automatically accepted (as long as you haven't previously broken the DH Slack's code of conduct), so if you fail to recieve an invitation after filling out the http://tinyurl.com/DHslack form, it's just a technical error.
 
 # DH Slack: Code of Conduct
 
@@ -69,9 +69,22 @@ The DH Slack prioritizes marginalized people’s safety over privileged people�
     Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
 
 ## Moderation
-Note that a number of members have been granted the "admin" role allowing them to also moderate the Slack (you may wish to check whether you already have moderation privileges, or request moderation privileges from Amanda). If you ever moderate or remove a message, please report doing so immediately to Amanda Visconti (via direct message or aviscont@purdue.edu).
+There's a #moderation channel on the DH Slack, where we can specifically discuss moderation policies as well as specific cases if they arise. There is a list pinned to #moderation with information on various ways you can report abuse and spam, and which users have admin privileges (i.e. who can moderate or help with abuse/harassment/spam/etc.). 
 
-Moderation is still something we're figuring out; a number of users known to the DH Slack owner have been granted the 'admin" role, but further community discussion is needed to make sure others requesting moderation privileges can receive them without necessarily being known to the DH Slack owner. Since anyone with the link can join this Slack, we do want to be cautious about moderation privileges becoming a tool for harrassment in the wrong hands.
+The pinned #moderation admin list also contains information on how to become a DH Slack admin. DH Slack users who ask to be an admin can be granted this role, if they have participated on the DH Slack for a while (e.g. 50+ messages on public channels and member for over 3 months). We'd also like to require some sort of verifiable web presence elsewhere than the DH Slack, if there's a fair way we can do this on a case-by-case basis and while strongly respecting anyone's desire for privacy (e.g. a current admin will work with the prospective admin via private email or DM to establish this, or this requirement can be waived).
+
+### What's an admin?
+An admin is a Slack user who has been granted the "admin" role. Admin abilities include removing others from public and private channels, disabling a team member's account, deleting others' messages, mass-deleting messages, and granting the admin role to others (details on Slack roles here: https://get.slack.help/hc/en-us/articles/201314026-Roles-and-permissions-in-Slack)
+
+### Admin requirements
+DH Slack users with the admin role agree to the following:
+
+1. Just when you're on the DH Slack, willingness to assist with moderation and harassment/spam alerts (either by moderating yourself, or alerting another admin of the issue). No time commitment implied.
+2. Reading the DH Slack code of conduct (tinyurl.com/DHSlackCode) and abiding by it—in particular...
+3. Treating all discussion of abuse, harassment, and related issues as private (privately discussing the issue with or passing the issue to another admin is allowed if necessary, though admins should not share the username of the person targeted nor share with multiple admins unless necessary, and the reporting user should be first consulted as to whether they are okay with the issue being discussed with someone else and/or their username being shared)
+3. *Alert Amanda Visconti immediately* (via Slack DM or email aviscont@purdue.edu) if you use any of your admin privileges (moderating messages or users, or creating a new admin).
+
+Any admin can ask to have the admin role removed from their account at any time for any reason.
 
 ## Technical Policies
 Currently, the DH Slack:
