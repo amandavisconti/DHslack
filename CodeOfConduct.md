@@ -73,8 +73,8 @@ Although no one can access messages older than the most recent 10k via the Slack
 
 Please also consider that messages on the DH Slack could be captured via screenshot or copy/paste by any DH Slack user. To allow conversational and research reuse of the DH Slack while respecting the privacy and IP of the DH Slack's users, you must follow the requirements below for quoting or reuse of the DH Slack:
 
-* If you’re going to share a snapshot of a conversation on the Slack, you must ask anyone whose username is shown first and receive explicit permission from them (including honoring if they only give permission if you black out their username). 
-* For research/public discussion use of the Slack message export, you should ask in the #meta channel and wait to get an explicit okay from an admin who has had time to synthesize responses. A list of current admin users can be found pinned to the #moderation channel.
+* *Screenshots*: If you want to share a screenshot or quote from the DH Slack, you must receive explicit permission from any user quoted in the conversation you want to share. This requirement stands even if you block out or otherwise hide the usernames in the conversation.
+* *Message archive export use* (research, quoting, etc.): you should describe your requested use in the #meta channel, and wait to get an explicit okay from Amanda Visconti (who will synthesize responses and make sure users have enough time to respond; if other admins are willing to also do this, just DM Amanda and she'll note this on the admins list now pinned to the #moderation channel.)
 
 ## Help us improve this code of conduct
 Because of how Slack is designed, the DH Slack currently has an owner (Amanda Visconti; aviscont@purdue.edu) as well as a variety of members who have been given the "admin" role so that they can moderate discussions if needed. Suggestions for improving this structure would be appreciated! In particular, ideas for letting the community grow while protecting against spam or troll activity (since anyone can sign themselves up), and ideas for fairly distributing the "admin" role among users would be appreciated. 
