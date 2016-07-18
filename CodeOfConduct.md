@@ -8,7 +8,7 @@ Anyone with an interest in DH (absolutely no experience needed!) is invited to j
 * Welcome & invitations
 * Consequences
 * Harassment includes...
-* Moderation
+* [Moderation](#moderation)
 * Technical policies
 * Permanence & privacy
 * Help us improve this code of conduct
