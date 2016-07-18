@@ -4,15 +4,15 @@ Anyone with an interest in DH (absolutely no experience needed!) is invited to j
 # DH Slack: Code of Conduct
 
 * Code of conduct intro
-* Reporting
-* Welcome & invitations
-* Consequences
-* Harassment includes...
+* [Reporting](#reporting)
+* [Welcome & invitations](#welcome--invitations)
+* [Consequences](#consequences)
+* [Harassment includes...](#user-content-harassment-includes)
 * [Moderation](#moderation)
-* Technical policies
-* Permanence & privacy
-* Help us improve this code of conduct
-* License, attribution, credit
+* [Technical policies](#technical-policies)
+* [Permanence & privacy](#permanence--privacy)
+* [Help us improve this code of conduct](#user-content-help-us-improve-this-code-of-conduct)
+* [License, attribution, credit](#user-content-license-attribution-credit)
 
 This code of conduct is an evolving document that changes following discussion on the DH Slack's #meta channel and involves the work and input of many DH Slack members.
 
