@@ -54,12 +54,14 @@ If a participant engages in harassing behavior, we may take any action they deem
     Deliberate intimidation.
     Stalking or following.
     Harassing recording, including logging online activity for harassment purposes.
-    Sustained disruption of discussion.
+    Sustained disruption of discussion (e.g. disruptive non-constructive criticism, such as complaining at length without the intent to suggest improvements in a manner that disrupts other conversation on a channel and/or directly targets a Slack user)
     Unwelcome sexual attention.
     Pattern of inappropriate social contact, such as requesting/assuming inappropriate levels of intimacy with others
     Continued one-on-one communication after requests to cease.
     Deliberate outing of any aspect of a person’s identity without their consent except as necessary to protect vulnerable people from intentional abuse.
     Belittling of people asking for help learning, including directing people the "Let Me Google That For You" links instead of answering their question
+    
+Note that invoking /giphy with terms that aren't harassment can sometimes result in GIFs that perpetuate one of these forms of harassment. It isn't your fault—just edit your message to remove the GIF (ask a mod if you need help).
 
 The DH Slack prioritizes marginalized people’s safety over privileged people’s comfort. We will not act on complaints regarding:
 
