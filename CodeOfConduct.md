@@ -15,7 +15,7 @@ Anyone with an interest in DH (absolutely no experience needed!) is invited to j
 * [License, attribution, credit](#user-content-license-attribution-credit)
 
 This code of conduct is an evolving document that changes following discussion on the DH Slack's #meta channel and involves the work and input of many DH Slack members.
-
+ 
 The Digital Humanities Slack is dedicated to providing a harassment-free online community experience for everyone regardless of digital humanities experience, employment, technical skills, gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, or religion. We do not tolerate harassment of DH Slack team members in any form. Sexual language and imagery is not appropriate for this Slack. Dismissive or belittling behavior (e.g. answering questions with links to Let Me Google That For You) is not allowed.
 
 Harassment and other code of conduct violations reduce the value of our community for everyone. Community members violating these rules may be banned from this Slack at the discretion of the team owner. 
