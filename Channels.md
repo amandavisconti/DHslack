@@ -6,7 +6,7 @@ This is a list of the DH Slack's channels (aka chat rooms focused on specific to
 
 * adminannouncements
 
-*announcements about the DH Slack*
+  *announcements about the DH Slack*
 
 * introductions
 
