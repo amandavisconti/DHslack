@@ -4,9 +4,11 @@ This is a list of the DH Slack's channels (aka chat rooms focused on specific to
 
 #Meta stuff, fun stuff
 adminannouncements
+
 announcements about the DH Slack
 
 introductions
+
 say hi and introduce yourself! also for reminding people about channels they can join
 
 off-topic
