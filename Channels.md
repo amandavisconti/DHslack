@@ -13,27 +13,35 @@ This is a list of the DH Slack's channels (aka chat rooms focused on specific to
   *say hi and introduce yourself! also for reminding people about channels they can join*
 
 * off-topic
+* 
   *general chat, stuff that doesn't fit elsewhere in a channel, GIFs, etc. (including non-DH stuff)*
 
 * hottopic
+* 
   *For general discussion that doesnt fit anywhere else, but is still on topic for DH… so not, #offtopic*
 
 * meta
+* 
   *Meta-discussion of the DH Slack: moderating it, structuring it, community policies, other admin stuff*
 
 * codeofconduct
+* 
   *Discussions of the DH Slack code of conduct (improvements, interpretation, enacting) can go here; updates to the code (tinyurl.com/dhslackcode) will automatically be noted here too via GitHub integration!*
 
 * weeklies
+* 
   *For weekly (okay, as regularly as someone remembers to…) sharing around a theme. Someone will post a “theme” (favorite song in the past year, favorite dh blog post, twitter handles, etc.) and everyone is invited to respond to it!*
 
 * moderation
+* 
   *A place to discuss DH Slack moderation (in particular, alert mods to something that needs to be moderated)*
 
 * reading
+* 
   *A channel for sharing what you're reading lately, book recommendations, and chatting about book nerd stuff (both "entertainment" reading and academic reading welcomed)*
 
 * methodology
+* 
   *Discuss systems of methods for the (digital) humanities*
 ----
 
