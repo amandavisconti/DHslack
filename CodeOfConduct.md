@@ -1,6 +1,8 @@
 # Join the Digital Humanities Slack
 Anyone with an interest in DH (absolutely no experience needed!) is invited to join us. Join the DH Slack via http://tinyurl.com/DHslack. Mmake sure to check your spam folder if you don't receive an email with a link to start using the Slack within ten minutes after you submit the form, then email aviscont@purdue; a few people have encountered the automatic form not sending them an invitation email for some reason. You're automatically accepted (as long as you haven't previously broken the DH Slack's code of conduct), so if you fail to recieve an invitation after filling out the http://tinyurl.com/DHslack form, it's just a technical error.
 
+A list of current DH Slack "channels" (chatrooms devoted to specific DHy topics) can be perused [here](https://github.com/amandavisconti/DHslack/blob/master/Channels.md).
+
 # DH Slack: Code of Conduct
 
 * Code of conduct intro
