@@ -2,47 +2,6 @@ This is a list of the DH Slack's channels (aka chat rooms focused on specific to
 
 *Caveat:* the list below is updated manually, so may not include all current DH Slack channels.
 
-#Meta stuff, fun stuff
-
-* adminannouncements
-
-  *announcements about the DH Slack*
-
-* introductions
-
-  *say hi and introduce yourself! also for reminding people about channels they can join*
-
-* off-topic
- 
-  *general chat, stuff that doesn't fit elsewhere in a channel, GIFs, etc. (including non-DH stuff)*
-
-* hottopic
-
-  *For general discussion that doesnt fit anywhere else, but is still on topic for DH… so not, #offtopic*
-
-* meta
-
-  *Meta-discussion of the DH Slack: moderating it, structuring it, community policies, other admin stuff*
-
-* codeofconduct
-
-  *Discussions of the DH Slack code of conduct (improvements, interpretation, enacting) can go here; updates to the code (tinyurl.com/dhslackcode) will automatically be noted here too via GitHub integration!*
-
-* weeklies
-
-  *For weekly (okay, as regularly as someone remembers to…) sharing around a theme. Someone will post a “theme” (favorite song in the past year, favorite dh blog post, twitter handles, etc.) and everyone is invited to respond to it!*
-
-* moderation
-
-  *A place to discuss DH Slack moderation (in particular, alert mods to something that needs to be moderated)*
-
-* reading
-
-  *A channel for sharing what you're reading lately, book recommendations, and chatting about book nerd stuff (both "entertainment" reading and academic reading welcomed)*
-
-* methodology
-
-  *Discuss systems of methods for the (digital) humanities*
 ----
 
 
@@ -159,10 +118,6 @@ This is a list of the DH Slack's channels (aka chat rooms focused on specific to
 
   *Text mining/analysis techniques and methodologies of all kinds and all disciplines*
 
-* ulysses-textencoding
-
-  *the special problems of creating a set of high-quality encodings of Joyce's Ulysses*
-
 * litcrit
 
   *Do the digital humanities suggest new strategies for traditional literary criticism?*
@@ -173,27 +128,7 @@ This is a list of the DH Slack's channels (aka chat rooms focused on specific to
 
 ----
 
-#Media
-
-* mediastudies
-
-  *Media Studies and DH, Media Archaeology and DH*
-
-* sound
-
-  *all things sound*
-
-* music
-
-  *Discussing DH and music + DH and musicology*
-
-* gaming
-
-  *Let’s talk about gaming, simulation, and its role in research and teaching.*
-  
-----
-
-#Broad areas of practice
+#Disciplinary-focused channels
 
 * libraries
 
@@ -222,7 +157,55 @@ This is a list of the DH Slack's channels (aka chat rooms focused on specific to
 * envirohumanities
 
   *Environmental & Digital Humanities*
-  
+
+* mediastudies
+
+  *Media Studies and DH, Media Archaeology and DH*
+
+* sound
+
+  *all things sound*
+
+* music
+
+  *Discussing DH and music + DH and musicology*
+
+* gaming
+
+  *Let’s talk about gaming, simulation, and its role in research and teaching.*
+
+* genealogy
+
+  *All things genealogy, family history, one place studies, et al*
+
+* networks
+
+  *All things network analysis, visualization, and simulation*
+
+* simulation
+
+  *discussing the longterm goal of AI-simulated models of represented worlds/stories*
+
+* geospatial
+
+  *Geography, cartography, GIS, gazetteers, maps, all that stuff.*
+
+* 3dscholarship
+
+  *To discuss challenges and opportunities in 3D scholarship and research.*
+
+* physcomp
+
+  *A channel to discuss physical computing, desktop fabrication, and “making” in the humanities.*
+
+* annotation
+
+  *We <3 web/text/image/etc. annotation!*
+
+* crowdsourcing
+
+  *For people interested in crowdsourcing, public participation in humanities/historical/scientific research*
+
 ----
 
 #Code & data
@@ -290,44 +273,60 @@ This is a list of the DH Slack's channels (aka chat rooms focused on specific to
 
 ----
 
-#Still not sure where to put these
+#Meta stuff, fun stuff
 
-* annotation
+* adminannouncements
 
-  *We <3 web/text/image/etc. annotation!*
+  *announcements about the DH Slack*
+
+* introductions
+
+  *say hi and introduce yourself! also for reminding people about channels they can join*
+
+* off-topic
+ 
+  *general chat, stuff that doesn't fit elsewhere in a channel, GIFs, etc. (including non-DH stuff)*
+
+* hottopic
+
+  *For general discussion that doesnt fit anywhere else, but is still on topic for DH… so not, #offtopic*
+
+* meta
+
+  *Meta-discussion of the DH Slack: moderating it, structuring it, community policies, other admin stuff*
+
+* codeofconduct
+
+  *Discussions of the DH Slack code of conduct (improvements, interpretation, enacting) can go here; updates to the code (tinyurl.com/dhslackcode) will automatically be noted here too via GitHub integration!*
+
+* weeklies
+
+  *For weekly (okay, as regularly as someone remembers to…) sharing around a theme. Someone will post a “theme” (favorite song in the past year, favorite dh blog post, twitter handles, etc.) and everyone is invited to respond to it!*
+
+* moderation
+
+  *A place to discuss DH Slack moderation (in particular, alert mods to something that needs to be moderated)*
+
+* reading
+
+  *A channel for sharing what you're reading lately, book recommendations, and chatting about book nerd stuff (both "entertainment" reading and academic reading welcomed)*
+
+* methodology
+
+  *Discuss systems of methods for the (digital) humanities*
+
+----
+
+#Specific projects
 
 * hypothes-is
 
   *discussion specifically about the hypothes.is open annotation project*
 
-* crowdsourcing
-
-  *For people interested in crowdsourcing, public participation in humanities/historical/scientific research*
-
-* genealogy
-
-  *All things genealogy, family history, one place studies, et al*
-
 * programminghistorian
 
   *Feed of Hypothesis annotations on the Programming Historian tutorials*
 
-* simulation
+* ulysses-textencoding
 
-  *discussing the longterm goal of AI-simulated models of represented worlds/stories*
-
-* geospatial
-
-  *Geography, cartography, GIS, gazetteers, maps, all that stuff.*
-
-* 3dscholarship
-
-  *To discuss challenges and opportunities in 3D scholarship and research.*
-
-* physcomp
-
-  *A channel to discuss physical computing, desktop fabrication, and “making” in the humanities.*
-
-* networks
-
-  *All things network analysis, visualization, and simulation*
+  *the special problems of creating a set of high-quality encodings of Joyce's Ulysses*
