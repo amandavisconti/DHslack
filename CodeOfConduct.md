@@ -39,9 +39,9 @@ We invite and encourage additions to this section (as well as additions/edits fo
 
 ##Consequences
 
-Participants asked to stop any harassing behavior are expected to comply immediately.
+Participants asked to stop any harassing behavior are expected to comply immediately. Messages deleted by a moderator should not be reposted.
 
-If a participant engages in harassing behavior, we may take any action they deem appropriate, up to and including expulsion from the DH Slack and identification of the participant as a harasser to other DH Slack members or the general public.
+If a participant engages in harassing behavior, moderators may take any action they deem appropriate. Moderator responses may include deleting a Slack message (including replacing the message with information on why such messages are not allowed), DMing the participant to inform them of their code of conduct violation and requiring acknowledgement that a second violation will result in an immediate and permanent ban, immediate and permanent expulsion from the DH Slack, and identification of the participant as a harasser to other moderators, the DH Slack community, or the general public. 
 
 ## Harassment includes...
 
@@ -65,6 +65,7 @@ If a participant engages in harassing behavior, we may take any action they deem
     Dismissiveness toward oppression, toward complaints about oppression, or toward whether other users could interpret a message as harassment.
     Jokes that incorporate any type of harassment (including use of derogatory stereotypes).
     Quoting any type of harassment (including using the orignal author's demographics to argue the quote can't be harassment).
+    Reposting of a message deleted by a moderator.
     
 Note that invoking /giphy with terms that aren't harassment can sometimes result in GIFs that perpetuate one of these forms of harassment. It isn't your fault—just edit your message to remove the GIF (ask a mod if you need help).
 
