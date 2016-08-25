@@ -10,7 +10,7 @@ A list of current DH Slack "channels" (chatrooms devoted to specific DHy topics)
 * [Welcome & invitations](#welcome--invitations)
 * [Consequences](#consequences)
 * [Harassment includes...](#user-content-harassment-includes)
-* [Additional guidance on avoiding harassment](#Additional-guidance-on-being-a-good-community-member)
+* [Additional guidance on avoiding harassment](#additional-guidance-on-being-a-good-community-member)
 * [Moderation](#moderation)
 * [Technical policies](#technical-policies)
 * [Permanence & privacy](#permanence--privacy)
@@ -77,7 +77,7 @@ The DH Slack prioritizes marginalized people’s safety over privileged people�
     Communicating in a tone you don’t find congenial
     Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
 
-# Additional guidance on being a good community member
+## Additional guidance on being a good community member
 
 * Consider that your life experiences do not provide you with the best means to judge whether something is harassment to another person. For example, frequently harassed groups deal with regular oppressions throughout the day (microaggressions); though each oppression may not seem like harassment to someone not regularly experiencing or aware of these oppressions, these instances absolutely *are* oppressions, constant reminders that society values you less, and such experiences in aggregate (including experiences that mean seem small in scope to an outsider) take a damaging toll.
 
