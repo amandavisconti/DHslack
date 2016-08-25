@@ -62,6 +62,9 @@ If a participant engages in harassing behavior, we may take any action they deem
     Continued one-on-one communication after requests to cease.
     Deliberate outing of any aspect of a person’s identity without their consent except as necessary to protect vulnerable people from intentional abuse.
     Belittling of people asking for help learning, including directing people the "Let Me Google That For You" links instead of answering their question
+    Dismissiveness toward oppression, toward complaints about oppression, or toward whether other users could interpret a message as harassment.
+    Jokes that incorporate any type of harassment (including use of derogatory stereotypes).
+    Quoting any type of harassment (including using the orignal author's demographics to argue the quote can't be harassment).
     
 Note that invoking /giphy with terms that aren't harassment can sometimes result in GIFs that perpetuate one of these forms of harassment. It isn't your fault—just edit your message to remove the GIF (ask a mod if you need help).
 
