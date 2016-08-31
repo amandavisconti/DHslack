@@ -1,9 +1,10 @@
-This is a list of the DH Slack's channels (aka chat rooms focused on specific topics). These are user-created and user-run, and all members are welcome to create new channels (and announce any new channel you make in #introductions, so people know it exists). This page can be linked as [tinyurl.com/DHSlackChannels](http://tinyurl.com/DHSlackChannels) for ease of remembering.
+This is a list of the DH Slack's channels (aka chat rooms focused on specific topics). These are user-created and user-run, and all members are welcome to create new channels (and announce any new channel you make in #introductions, so people know it exists). We will also periodically archive (mothball) inactive channels or merge channels with strongly overlapping topics to make the channel set easier to navigate, but any user can un-archive any archived channel at any time desired.
+
+This page can be linked as [tinyurl.com/DHSlackChannels](http://tinyurl.com/DHSlackChannels) for ease of remembering.
 
 *Caveat:* the list below is updated manually, so may not include all current DH Slack channels.
 
 ----
-
 
 #Regional channels:
 * dh-bay-area
@@ -21,14 +22,8 @@ This is a list of the DH Slack's channels (aka chat rooms focused on specific to
 * dh_humanidadesdigital
 
   *Spanish DH channel.*
-  
-----
 
-#Events (maybe we archive these after they stop being used?)
-
-* dh2016
-
-  *For discussing the DH 2016 conference in Krakow.*
+* dh_nebraska
 
 ----
 
@@ -70,10 +65,6 @@ This is a list of the DH Slack's channels (aka chat rooms focused on specific to
 
   *A place to talk about being a student interested/involved in DH. Dissertations, getting research/project experience, swapping digital projects for final essays… maybe seeking mentors if you don’t have someone with the skills you need on campus?*
 
-* tutorialplease
-
-  *Wish there was a friendly tutorial about something? Describe the help you’d like here, and people looking to write a blog post or tutorial can use your idea (e.g. Programming Historian).*
-
 * emergingscholars
 
   *Creating community for emerging scholars in DH*
@@ -102,10 +93,6 @@ This is a list of the DH Slack's channels (aka chat rooms focused on specific to
 
 #Literature and text-focused
 
-* texthacking
-
-  *Tools and tricks and tips for manipulating text data (eg regular expressions, Python scripts, Unicode, ascii art)*
-
 * topicmodel
 
   *Discuss Topic Modeling*
@@ -117,10 +104,6 @@ This is a list of the DH Slack's channels (aka chat rooms focused on specific to
 * textanalysis
 
   *Text mining/analysis techniques and methodologies of all kinds and all disciplines*
-
-* litcrit
-
-  *Do the digital humanities suggest new strategies for traditional literary criticism?*
 
 * elit
 
@@ -222,10 +205,6 @@ This is a list of the DH Slack's channels (aka chat rooms focused on specific to
 
   *talk bots, deploy slack bots*
 
-* linux
-
-  *Get LAMP (or, even better, LEMP).*
-
 * databases
 
   *News and discussion about databases.*
@@ -241,23 +220,6 @@ This is a list of the DH Slack's channels (aka chat rooms focused on specific to
   *Encoding, managing, publishing, and exploiting bibliographic information in the context of DH publications, projects, subjects, and reading streams. Etc.*
 
 * datacuration
-
-* machinelearning
-
-  *Neural networks, deep dreams, and the infinite eyes of the Panopticon :eye:‍:left_speech_bubble:*
-  
-----
-
-#Meta-DH discussion
-
-* timelinesofdh
-
-  *What are the milestones in the evolution of DH so far? Links to other timelines are welcome, perspectives can be broad or narrow*
-
-* philosophy
-
-  *the philosophy of dh, more than the dh of philosophy*
-  
 
 ----
 
@@ -310,23 +272,3 @@ This is a list of the DH Slack's channels (aka chat rooms focused on specific to
 * reading
 
   *A channel for sharing what you're reading lately, book recommendations, and chatting about book nerd stuff (both "entertainment" reading and academic reading welcomed)*
-
-* methodology
-
-  *Discuss systems of methods for the (digital) humanities*
-
-----
-
-#Specific projects
-
-* hypothes-is
-
-  *discussion specifically about the hypothes.is open annotation project*
-
-* programminghistorian
-
-  *Feed of Hypothesis annotations on the Programming Historian tutorials*
-
-* ulysses-textencoding
-
-  *the special problems of creating a set of high-quality encodings of Joyce's Ulysses*
