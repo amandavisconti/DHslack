@@ -4,7 +4,7 @@ The Digital Humanities Slack is dedicated to providing a harassment-free online 
 # Join the Digital Humanities Slack
 Anyone with an interest in DH (absolutely no experience needed!) is invited to join us. Join the DH Slack via http://tinyurl.com/DHslack. Make sure to check your spam folder if you don't receive an email with a link to start using the Slack within ten minutes after you submit the form, then email aviscont@purdue.edu; a few people have encountered the automatic form not sending them an invitation email for some reason. You're automatically accepted (as long as you haven't previously broken the DH Slack's code of conduct), so if you fail to recieve an invitation after filling out the http://tinyurl.com/DHslack form, it's just a technical error.
 
-A list of current DH Slack "channels" (chatrooms devoted to specific DHy topics) can be perused [here](https://github.com/amandavisconti/DHslack/blob/master/Channels.md).
+A list of current DH Slack "channels" (chatrooms devoted to specific DHy topics) can be perused [here](https://github.com/amandavisconti/DHslack/blob/master/Channels.md), though note this list is only updated manually so may be out of date.
 
 # DH Slack: Code of Conduct
 
@@ -36,7 +36,7 @@ This section will list suggested behavior and positive, generative uses of the D
 
 * There’s likely someone on DH Slack who is interested in what you’re thinking about! Consider starting some conversations.
 * There are no "stupid" questions. Questions always point out things people who know the answer should teach/document better, and help out others with the same question in the future (or with the same question now but who haven't felt comfortable asking).
-* Don't worry too much about where to ask a question—if you're in "the wrong channel", someone will probably politely point this out, and you can just go ask again in the other channel. 
+* Don't worry too much about where to ask a question—if you're in "the wrong channel", someone will probably politely point this out, and you can just go ask again in the other channel.
 * People tune into Slack conversations at different times and for different reasons (e.g. someone may look like they're available, but be busy with work or not wanting to take part in multiple conversations at the same time). Don't worry if you don't get a response right away.
 
 We invite and encourage additions to this section (as well as additions/edits for the rest of this code of conduct) made in the #meta channel or by emailing Amanda (aviscont@purdue.edu).
@@ -82,7 +82,7 @@ The DH Slack prioritizes marginalized people’s safety over privileged people�
 
 ## Additional guidance on being a good community member
 
-* Consider that your life experiences do not provide you with the best means to judge whether something is harassment to another person. For example, frequently harassed groups deal with regular oppressions throughout the day (microaggressions); though each oppression may not seem like harassment to someone not regularly experiencing or aware of these oppressions, these instances absolutely *are* oppressions, constant reminders that society values you less, and such experiences in aggregate (including experiences that mean seem small in scope to an outsider) take a damaging toll.
+* Consider that your life experiences do not provide you with the best means to judge whether something is harassment to another person. For example, frequently harassed groups deal with regular oppressions throughout the day (microaggressions). Though each oppression may not seem like harassment to someone not regularly experiencing or aware of these oppressions, these instances absolutely *are* oppressions, constant reminders that society values you less, and such experiences in aggregate (including experiences that mean seem small in scope to an outsider) take a damaging toll.
 
 * Default toward believing and working to understand someone when they report harassment or discomfort. Civility is important to a good community. Is what you want to post actually worth the risk of making someone feel disrespected, demeaned, or of lesser value, or would the community be just as fine if you didn't take that risk and didn't post the message?
 
@@ -108,7 +108,7 @@ DH Slack users with the admin role agree to the following:
 1. Just when you're on the DH Slack, willingness to assist with moderation and harassment/spam alerts (either by moderating yourself, or alerting another admin of the issue). No time commitment implied.
 2. Reading the DH Slack code of conduct (tinyurl.com/DHSlackCode) and abiding by it—in particular...
 3. Treating all discussion of abuse, harassment, and related issues as private (privately discussing the issue with or passing the issue to another admin is allowed if necessary, though admins should not share the username of the person targeted nor share with multiple admins unless necessary, and the reporting user should be first consulted as to whether they are okay with the issue being discussed with someone else and/or their username being shared)
-3. *Alert Amanda Visconti immediately* (via Slack DM or email aviscont@purdue.edu) if you use any of your admin privileges (moderating messages or users, or creating a new admin).
+3. *Please alert the moderator team* via the #privatemoderation channel or DMs if you use any of your admin privileges (moderating messages or users, or creating a new admin).
 
 Any admin can ask to have the admin role removed from their account at any time for any reason.
 
@@ -122,6 +122,8 @@ All decisions can be revisited as needed. To read more about the decisions behin
 
 ## Permanence & privacy
 Although no one can access messages older than the most recent 10k via the Slack directly, users with admin privileges *can export the entire Slack message archive (not just the most recent 10k messages)* as a JSON file (this export does not include private group history or files, direct message history or files, edit and deletion logs). The JSON isn’t super-friendly to read, but I’ll bet a good number of DHers are familiar with transforming it into something easily human-readable, so please be aware that this is possible. 
+
+The email address used in your Slack profile will be visible to other DH Slack users.
 
 Please also consider that messages on the DH Slack could be captured via screenshot or copy/paste by any DH Slack user. To allow conversational and research reuse of the DH Slack while respecting the privacy and IP of the DH Slack's users, you must follow the requirements below for quoting or reuse of the DH Slack:
 
