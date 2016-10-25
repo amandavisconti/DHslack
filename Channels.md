@@ -65,10 +65,6 @@ This page can be linked as [tinyurl.com/DHSlackChannels](http://tinyurl.com/DHSl
 
   *A place to talk about being a student interested/involved in DH. Dissertations, getting research/project experience, swapping digital projects for final essays… maybe seeking mentors if you don’t have someone with the skills you need on campus?*
 
-* emergingscholars
-
-  *Creating community for emerging scholars in DH*
-
 * tutorials
 
   *Share great walkthroughs/tutorials/workflows here*
@@ -197,10 +193,6 @@ This page can be linked as [tinyurl.com/DHSlackChannels](http://tinyurl.com/DHSl
 
   *A place to discuss and ask coding & web development questions that aren’t specifically #Linux or #codesnippets.*
 
-* codesnippets
-
-  *To share, link to, and discuss bits of code that actually do DH-y things, or at least try to. And to ask questions along the lines of, "What's the best script-y way to [fill in short short task here]."*
-
 * bots
 
   *talk bots, deploy slack bots*
@@ -247,7 +239,7 @@ This page can be linked as [tinyurl.com/DHSlackChannels](http://tinyurl.com/DHSl
 
 * off-topic
  
-  *general chat, stuff that doesn't fit elsewhere in a channel, GIFs, etc. (including non-DH stuff)*
+  *general chat, stuff that does not fit elsewhere in a channel, GIFs, etc. (including non-DH stuff)*
 
 * hottopic
 
