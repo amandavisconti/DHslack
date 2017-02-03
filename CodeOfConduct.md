@@ -2,7 +2,7 @@
 The Digital Humanities Slack is dedicated to providing a harassment-free online community experience for everyone regardless of digital humanities experience, employment, technical skills, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, or religion. We do not tolerate harassment of DH Slack team members in any form. Harassment and other code of conduct violations reduce the value of our community for everyone, regardless of the intent behind these violations. Community members violating these rules may be banned from this Slack at the discretion of the moderators. The rest of this code of conduct document defines these statements in more detail.
 
 # Join the Digital Humanities Slack
-Anyone with an interest in DH (absolutely no experience needed!) is invited to join us. Join the DH Slack via http://tinyurl.com/DHslack. Make sure to check your spam folder if you don't receive an email with a link to start using the Slack within ten minutes after you submit the form, then email aviscont@purdue.edu; a few people have encountered the automatic form not sending them an invitation email for some reason. You're automatically accepted (as long as you haven't previously broken the DH Slack's code of conduct), so if you fail to recieve an invitation after filling out the http://tinyurl.com/DHslack form, it's just a technical error.
+Anyone with an interest in DH (absolutely no experience needed!) is invited to join us. Join the DH Slack via http://tinyurl.com/DHslack. Make sure to check your spam folder if you don't receive an email with a link to start using the Slack within ten minutes after you submit the form, then email amandavisconti@gmail.com; a few people have encountered the automatic form not sending them an invitation email for some reason. You're automatically accepted (as long as you haven't previously broken the DH Slack's code of conduct), so if you fail to recieve an invitation after filling out the http://tinyurl.com/DHslack form, it's just a technical error.
 
 A list of current DH Slack "channels" (chatrooms devoted to specific DHy topics) can be perused [here](https://github.com/amandavisconti/DHslack/blob/master/Channels.md), though note this list is only updated manually so may be out of date.
 
@@ -26,10 +26,10 @@ The Digital Humanities Slack is dedicated to providing a harassment-free online 
 
 Harassment and other code of conduct violations reduce the value of our community for everyone, regardless of the intent behind these violations. Community members violating these rules may be banned from this Slack at the discretion of the moderators. 
 
-Note that the DH Slack is an informal community. It is not sponsored by any institution and is run/moderated by volunteers. Users with the ability to moderate abuse/spam/etc. ("admins") do not regularly check all channels for problems. As DH Slack members we'll do our best to make the community safe and inviting, but please bring any issues to an admin's attention (you can always email aviscont@purdue.edu or check the list of current admins pinned to the #moderation channel).
+Note that the DH Slack is an informal community. It is not sponsored by any institution and is run/moderated by volunteers. Users with the ability to moderate abuse/spam/etc. ("admins") do not regularly check all channels for problems. As DH Slack members we'll do our best to make the community safe and inviting, but please bring any issues to an admin's attention (you can always email amandavisconti@gmail.com or check the list of current admins pinned to the #moderation channel).
 
 ## Reporting
-If someone makes you *or anyone else* feel unsafe or unwelcome, please report it as soon as possible to Amanda Visconti (via direct message or aviscont@purdue.edu). Your information will be kept anonymous and never shared unless you explicitly consent to its sharing. You won't be asked to confront anyone and we won't tell anyone who you are.  
+If someone makes you *or anyone else* feel unsafe or unwelcome, please report it as soon as possible to Amanda Visconti (via direct message or amandavisconti@gmail.com). Your information will be kept anonymous and never shared unless you explicitly consent to its sharing. You won't be asked to confront anyone and we won't tell anyone who you are.  
 
 ## Welcome & invitations
 This section will list suggested behavior and positive, generative uses of the DH Slack:
@@ -39,7 +39,7 @@ This section will list suggested behavior and positive, generative uses of the D
 * Don't worry too much about where to ask a question—if you're in "the wrong channel", someone will probably politely point this out, and you can just go ask again in the other channel.
 * People tune into Slack conversations at different times and for different reasons (e.g. someone may look like they're available, but be busy with work or not wanting to take part in multiple conversations at the same time). Don't worry if you don't get a response right away.
 
-We invite and encourage additions to this section (as well as additions/edits for the rest of this code of conduct) made in the #meta channel or by emailing Amanda (aviscont@purdue.edu).
+We invite and encourage additions to this section (as well as additions/edits for the rest of this code of conduct) made in the #meta channel or by emailing Amanda (amandavisconti@gmail.com).
 
 ##Consequences
 
