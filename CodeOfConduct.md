@@ -17,6 +17,7 @@ A list of current DH Slack "channels" (chatrooms devoted to specific DHy topics)
 * [Moderation](#moderation)
 * [Technical policies](#technical-policies)
 * [Permanence & privacy](#permanence--privacy)
+* [Messages involving money](#messages-involving-money)
 * [Help us improve this code of conduct](#user-content-help-us-improve-this-code-of-conduct)
 * [License, attribution, credit](#user-content-license-attribution-credit)
 
@@ -41,7 +42,7 @@ This section will list suggested behavior and positive, generative uses of the D
 
 We invite and encourage additions to this section (as well as additions/edits for the rest of this code of conduct) made in the #meta channel or by emailing Amanda (amandavisconti@gmail.com).
 
-##Consequences
+## Consequences
 
 Participants asked to stop any harassing behavior are expected to comply immediately. Messages deleted by a moderator should not be reposted.
 
@@ -50,6 +51,7 @@ If a participant engages in harassing behavior, moderators may take any action t
 ## Harassment includes...
 
     Publication of non-harassing private communication.
+    Unsolicited private messages to request donations, ask for paid work, or other funding-related requests (see "Messages involving money" below)
     Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, age, race, or religion.
     Unwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment.
     Deliberate misgendering or use of dead or rejected names.
@@ -129,6 +131,23 @@ Please also consider that messages on the DH Slack could be captured via screens
 
 * *Screenshots*: If you want to share a screenshot or quote from the DH Slack, you must receive explicit permission from any user quoted in the conversation you want to share. This requirement stands even if you block out or otherwise hide the usernames in the conversation.
 * *Message archive export use* (research, quoting, etc.): you should describe your requested use in the #meta channel, and wait to get an explicit okay from Amanda Visconti (who will synthesize responses and make sure users have enough time to respond; if other admins are willing to also do this, just DM Amanda and she'll note this on the admins list now pinned to the #moderation channel.)
+
+## Messages involving money ("funding-related")
+During Spring 2020, we are doing a trial run of a "#seeking-funds" channel, where folks are welcome to post up to 1 message per month, about DH things involving requests for money ("funding-related") such as project Patreons/donations, or consultants seeking DH contracts. This allows members to opt-in to seeing such messages. Questions and opinions about whether this is a good fit for this Slack would be greatly appreciated; you can post these to the #meta channel, direct message Amanda Visconti, or email Amanda at amandavisconti@gmail.com.
+
+Please:  
+1. post no more than 1 message per month to #seeking-funds (not counting conversations with users who engage with your message)  
+2. do not post such messages in other channels  
+3. do not direct message any Slack members with funding-related requests unless the member has explicitly posted about seeking to hire a consultant or wishing to help fund DH projects  
+4. post your messages mannually (not by automation)   
+
+Funding-related messages in other channels will be removed, and the user asked to report in the #seeking-funds channel (if posting elsewhere was a mistake). We understand it's hard to remember these rules exist if you weren't interested in sending such messages when first reading this code of conduct, and it's okay to make a good faith mistake—we'll just make sure you're up to date on these guidelines so you can follow them in the future.
+
+Direct messaging users to seek funds/hiring without the member explicitly first posting they'd like to be contacted about these things is more difficult to treat generously, since we rely on user reports to know what happens in private messages, and some users may just stop visiting the DH Slack after receiving an unsolicited funding-related message. Therefore, we will treat this as a more serious misuse of the basic intent of this Slack imparted by even a light skim of this code of conduct, and we may choose to ban users who engage in mass uninvited private messaging of other DH Slack members.
+
+The 1 message per month limit is due to the limits of our free Slack plan, which allows us to see only the most recent 10k messages. We're at 74,812 messages (as of March 5, 2020), so lots of older messages are hidden from reading now. 
+
+We also ask that users only post manually to the #seeking-funding channel (i.e. do not automate a monthly message), so that posting to this space corresponds to presence elsewhere on the DH Slack, information stays up to date, and to help us keep as many recent messages visible as possible.
 
 ## Help us improve this code of conduct
 Because of how Slack is designed, the DH Slack currently has an owner (Amanda Visconti; visconti@virginia.edu) as well as a variety of members who have been given the "admin" role so that they can moderate discussions if needed. Suggestions for improving this structure would be appreciated! In particular, ideas for letting the community grow while protecting against spam or troll activity (since anyone can sign themselves up), and ideas for fairly distributing the "admin" role among users would be appreciated. 
