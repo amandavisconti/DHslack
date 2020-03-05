@@ -17,7 +17,7 @@ A list of current DH Slack "channels" (chatrooms devoted to specific DHy topics)
 * [Moderation](#moderation)
 * [Technical policies](#technical-policies)
 * [Permanence & privacy](#permanence--privacy)
-* [Messages involving money](#messages-involving-money)
+* [Messages involving money](#messages-involving-money-funding-related)
 * [Help us improve this code of conduct](#user-content-help-us-improve-this-code-of-conduct)
 * [License, attribution, credit](#user-content-license-attribution-credit)
 
