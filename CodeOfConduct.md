@@ -75,24 +75,24 @@ If a participant engages in harassing behavior, moderators may take any action t
     
 Note that invoking /giphy with terms that aren't harassment can sometimes result in GIFs that perpetuate one of these forms of harassment. It isn't your fault—just edit your message to remove the GIF (ask a mod if you need help).
 
-The DH Slack prioritizes marginalized people’s safety over privileged people’s comfort. We will not act on complaints regarding:
+The DH Slack prioritizes marginalized people’s safety over privileged people’s comfort. We will not act on complaints regarding the following, and "harassment" discussed in this code does not refer to:
 
     Reverse-isms, including reverse racism, reverse sexism, and cisphobia
     Reasonable communication of boundaries, such as "leave me alone", "go away", or "I'm not discussing this with you."
     Communicating in a tone you don’t find congenial
     Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
-
+  
 ## Additional guidance on being a good community member
 
-* Consider that your life experiences do not provide you with the best means to judge whether something is harassment to another person. For example, frequently harassed groups deal with regular oppressions throughout the day (microaggressions). Though each oppression may not seem like harassment to someone not regularly experiencing or aware of these oppressions, these instances absolutely *are* oppressions, constant reminders that society values you less, and such experiences in aggregate (including experiences that mean seem small in scope to an outsider) take a damaging toll.
+* Consider that your life experiences may not provide you with the best means to judge whether something is harassment to another person, and that what ultimately matters is not your intent but the impact on that person. For example, frequently harassed groups deal with regular oppressions throughout the day. Regardless of intent, these instances absolutely *are* oppressions, constant reminders that society values you less, and such experiences in aggregate take a damaging toll.
 
 * Default toward believing and working to understand someone when they report harassment or discomfort. Is what you want to post actually worth the risk of making someone feel disrespected, demeaned, or of lesser value, or would the community be just as fine if you didn't take that risk and didn't post the message?
 
 * If you're not sure whether something you want to say constitutes harassment, don't guess, and don't post the message and wait to see how it's interpreted. Read through these guidelines again, then use the #moderation channel (or DM one of the moderators listed in the pinned list in the #moderation channel) to ask. This reduces the number of community members exposed to your message if indeed it does constitute harassment, showing care for community wellness.
 
-* If a moderator DMs you about something that is a code of conduct violation (or near to a violation), your explicitly acknowledging you understand the nature of the violation and will work to not do it again shows a willingness to participate in the community's values. Not responding to a moderator message and/or reposting a deleted message shows a disregard of the extra effort the moderator is investing to help you participate in the community, and a lack of care about the community's wellness; this behavior can result in banning from the DH Slack.
+* If a moderator DMs you about something that is a code of conduct violation (or near to a violation), your explicitly acknowledging you understand the nature of the violation and will work to not do it again, shows a willingness to participate in the community's values. Not responding to a moderator message and/or reposting a deleted message shows a disregard of the extra effort the moderator is investing to help you participate in the community, and a lack of care about the community's wellness; this behavior can result in banning from the DH Slack.
 
-* Consider not just the intent of your behavior, but that your behavior's impact is just as important as your intent. Many people act with good intent (not actively trying to cause trouble), but intent does not effect whether actions oppress or harass. 
+* Consider not just the intent of your behavior, but that your behavior's impact is just as important as your intent. Many people act with good intent (or lack of active purpose to harm), but intent does not determine whether actions oppress or harass. 
  
 * It is not the duty of others to repeatedly educate you to not harass. There are a wealth of online resources for your use; try searching for particular forms of oppression plus "101" for resources aimed at an introductory audience (e.g. "Ableism 101"). Repeated inability to participate in the DH Slack without harassment is grounds for permanent banning.
 
