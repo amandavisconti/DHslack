@@ -9,7 +9,7 @@ A list of current DH Slack "channels" (chatrooms devoted to specific DHy topics)
 # DH Slack: Code of Conduct
 
 * Code of conduct intro & how to join the DH Slack
-* [Messages involving money & job-seeking](#messages-involving-money-funding-related)
+* [Messages involving money & job-seeking](#messages-involving-job-seeking--other-money-matters)
 * [Reporting](#reporting)
 * [Welcome & invitations](#welcome--invitations)
 * [Consequences](#consequences)
