@@ -29,12 +29,12 @@ Harassment and other code of conduct violations reduce the value of our communit
 
 Note that the DH Slack is an informal community. It is not sponsored by any institution and is run/moderated by volunteers. Users with the ability to moderate abuse/spam/etc. ("admins") do not regularly check all channels for problems. As DH Slack members we'll do our best to make the community safe and inviting, but please bring any issues to an admin's attention (you can always email amandavisconti@gmail.com or check the list of current admins pinned to the #moderation channel).
 
-## Messages involving money ("funding-related"), including consultants & other *folks seeking work*
+## Messages involving job-seeking & other money matters
 We are generally not a place to post about DH things involving requests for money ("funding-related") such as project Patreons/donations, ***folks seeking jobs***, or consultants seeking DH contracts. If you are interested in DH, you may post a single, one-time message noting you're available for work to the #introductions channel (no other channels), *if* that message includes information on what your interests are in DH/why else you're part of this community. (Any posts by people not particularly interested in DH who code and are just looking for coding work, will be removed.)
 
-Why: This is to reduce the number of non-relevant posts readers see, given most of us aren't in a position to hire unless we've already posted a job ad to the #jobs channel; and given the limit of viewable messages given our free plan*. (You can always direct message Amanda Visconti, or email Amanda at amandavisconti@gmail.com, if you're unsure about whether if/how you post such a message is allowed, or where to post it.)
-
 Direct messaging users to seek funds/hiring without the member explicitly first posting they'd like to be contacted about these things, is a serious misuse of the basic intent of this Slack. We will automatically ban users who engage in uninvited private messaging of another DH Slack member seeking work or other funding.
+
+*Why:* This is to reduce the number of non-relevant posts readers see, given most of us aren't in a position to hire unless we've already posted a job ad to the #jobs channel; and given the limit of viewable messages given our free plan*. (You can always direct message Amanda Visconti, or email Amanda at amandavisconti@gmail.com, if you're unsure about whether if/how you post such a message is allowed, or where to post it.)
 
 ## Reporting
 If someone makes you *or anyone else* feel unsafe or unwelcome, please report it as soon as possible to Amanda Visconti (via direct message or amandavisconti@gmail.com). Your information will be kept anonymous and never shared unless you explicitly consent to its sharing. You won't be asked to confront anyone and we won't tell anyone who you are.  
