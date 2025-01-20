@@ -9,6 +9,7 @@ A list of current DH Slack "channels" (chatrooms devoted to specific DHy topics)
 # DH Slack: Code of Conduct
 
 * Code of conduct intro & how to join the DH Slack
+* [Messages involving money & job-seeking](#messages-involving-money-funding-related)
 * [Reporting](#reporting)
 * [Welcome & invitations](#welcome--invitations)
 * [Consequences](#consequences)
@@ -17,7 +18,6 @@ A list of current DH Slack "channels" (chatrooms devoted to specific DHy topics)
 * [Moderation](#moderation)
 * [Technical policies](#technical-policies)
 * [Permanence & privacy](#permanence--privacy)
-* [Messages involving money](#messages-involving-money-funding-related)
 * [Help us improve this code of conduct](#user-content-help-us-improve-this-code-of-conduct)
 * [License, attribution, credit](#user-content-license-attribution-credit)
 
@@ -28,6 +28,13 @@ The Digital Humanities Slack is dedicated to providing a harassment-free online 
 Harassment and other code of conduct violations reduce the value of our community for everyone, regardless of the intent behind these violations. Community members violating these rules may be banned from this Slack at the discretion of the moderators. 
 
 Note that the DH Slack is an informal community. It is not sponsored by any institution and is run/moderated by volunteers. Users with the ability to moderate abuse/spam/etc. ("admins") do not regularly check all channels for problems. As DH Slack members we'll do our best to make the community safe and inviting, but please bring any issues to an admin's attention (you can always email amandavisconti@gmail.com or check the list of current admins pinned to the #moderation channel).
+
+## Messages involving money ("funding-related"), including consultants & other *folks seeking work*
+We are generally not a place to post about DH things involving requests for money ("funding-related") such as project Patreons/donations, ***folks seeking jobs***, or consultants seeking DH contracts. If you are interested in DH, you may post a single, one-time message noting you're available for work to the #introductions channel (no other channels), *if* that message includes information on what your interests are in DH/why else you're part of this community. (Any posts by people not particularly interested in DH who code and are just looking for coding work, will be removed.)
+
+Why: This is to reduce the number of non-relevant posts readers see, given most of us aren't in a position to hire unless we've already posted a job ad to the #jobs channel; and given the limit of viewable messages given our free plan*. (You can always direct message Amanda Visconti, or email Amanda at amandavisconti@gmail.com, if you're unsure about whether if/how you post such a message is allowed, or where to post it.)
+
+Direct messaging users to seek funds/hiring without the member explicitly first posting they'd like to be contacted about these things, is a serious misuse of the basic intent of this Slack. We will automatically ban users who engage in uninvited private messaging of another DH Slack member seeking work or other funding.
 
 ## Reporting
 If someone makes you *or anyone else* feel unsafe or unwelcome, please report it as soon as possible to Amanda Visconti (via direct message or amandavisconti@gmail.com). Your information will be kept anonymous and never shared unless you explicitly consent to its sharing. You won't be asked to confront anyone and we won't tell anyone who you are.  
@@ -131,23 +138,6 @@ Please also consider that messages on the DH Slack could be captured via screens
 
 * *Screenshots*: If you want to share a screenshot or quote from the DH Slack, you must receive explicit permission from any user quoted in the conversation you want to share. This requirement stands even if you block out or otherwise hide the usernames in the conversation.
 * *Message archive export use* (research, quoting, etc.): you should describe your requested use in the #meta channel, and wait to get an explicit okay from Amanda Visconti (who will synthesize responses and make sure users have enough time to respond; if other admins are willing to also do this, just DM Amanda and they'll note this on the admins list now pinned to the #moderation channel.)
-
-## Messages involving money ("funding-related"), including consultants & other folks seeking work
-We have a "#seeking-funds" channel, where folks are welcome to post up to 1 message per month, about DH things involving requests for money ("funding-related") such as project Patreons/donations, folks seeking jobs, or consultants seeking DH contracts. This allows members to opt-in to seeing such messages. (You can always direct message Amanda Visconti, or email Amanda at amandavisconti@gmail.com, if you're unsure about whether if/how you post such a message is allowed, or where to post it.)
-
-Please:  
-1. post no more than 1 message per month to #seeking-funds (not counting conversations with users who engage with your message)  
-2. do not post such messages in other channels (a one-time mention of seeking work, as part of your initial introduction in the #introduction channel, is fine)
-3. do not direct message any Slack members with funding-related requests unless the member has explicitly posted about seeking to hire a consultant or wishing to help fund DH projects  
-4. post your messages manually (not by automation)   
-
-Funding-related messages in other channels will be removed.
-
-Direct messaging users to seek funds/hiring without the member explicitly first posting they'd like to be contacted about these things is a serious misuse of the basic intent of this Slack. We will automatically ban users who engage in uninvited private messaging of other DH Slack members seeking work or other funding.
-
-The 1 message per month limit is due to the limits of our free Slack plan, which allows us to see only the most recent 10k messages. We're were at 74,812 messages as of March 5, 2020, so lots of older messages are hidden from reading now. 
-
-We also ask that users only post manually to the #seeking-funding channel (i.e. do not automate a monthly message), so that posting to this space corresponds to presence elsewhere on the DH Slack, information stays up to date, and to help us keep as many recent messages visible as possible.
 
 ## Help us improve this code of conduct
 Because of how Slack is designed, the DH Slack currently has an owner (Amanda Visconti; amandavisconti@gmail.com) as well as a variety of members who have been given the "admin" role so that they can moderate discussions if needed. Suggestions for improving this structure would be appreciated! In particular, ideas for letting the community grow while protecting against spam or troll activity (since anyone can sign themselves up), and ideas for fairly distributing the "admin" role among users would be appreciated. 
